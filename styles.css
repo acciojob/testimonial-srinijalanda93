@@ -10,8 +10,12 @@
 	background-color:white;
 	padding:15px;
 	border:1px solid black;
+	 margin-bottom: 20px; 
 }
-p{
+.author{
 	text-align:right;
 	font-style:italic;
+}
+.text{
+	font-family:candara;
 }
